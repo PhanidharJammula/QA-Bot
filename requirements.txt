@@ -1,0 +1,10 @@
+fastapi==0.112.2
+uvicorn==0.30.6
+langchain==0.2.15
+pypdf==4.3.1
+pydantic==2.8.2
+langchain-community==0.2.14
+python-multipart==0.0.9
+jq==1.8.0
+openai==1.43.0
+python-dotenv==1.0.1
